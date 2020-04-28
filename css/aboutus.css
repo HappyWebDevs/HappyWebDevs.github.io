@@ -1,0 +1,43 @@
+.aboutus{
+    margin-top: 15%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+   
+}
+.aboutus_title{
+    text-align: center;
+    color: blueviolet;
+    font-size: 40px;
+}
+.aboutus_text{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    color: rgb(121, 121, 121);
+}
+.aboutus_joiner{
+    display: inline;
+}
+.aboutus_button{
+    border-radius: 0 20px 20px 0;
+    background-color: rgb(159, 177, 162);
+    position: absolute;
+    display: inline;
+    margin-left: 10px;
+}
+.aboutus_button a{
+    
+    display: block;
+    padding-top: 50px;
+    margin-left: 35px;
+    padding-bottom: 50px;
+    text-decoration:none;
+    text-decoration: underline;
+
+}
+.aboutus_button p{
+    font-size:22px;
+    writing-mode: vertical-rl;
+    color: rgb(31, 56, 20);
+}
